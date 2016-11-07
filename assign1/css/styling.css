@@ -1,0 +1,76 @@
+/* This sets the colour of the main body area */
+body {
+  width: 1250px;
+  height: 754px;
+  background-color: #CD6155;
+}
+
+
+/*These are the settings for the navigation menus */
+.nav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+ 
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+ 
+.nav a:hover {
+  background-color: #005f5f;
+}
+ 
+.nav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+ 
+@media screen and (min-width: 600px) {
+  .nav li {
+    width: 220px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+ 
+  /* Option 1 - Display Inline */
+  .nav li {
+    display: inline-block;
+    margin-right: -4px;
+  }
+
+}
+
+/* These are the setting for the main picture of my on the homepage */
+.pic {
+    margin: auto;
+    width: 52%;
+    border: 3px solid #666633;
+    padding: 10px;
+}
+
+/* These are the setting for box which has my name */
+h1.name {
+	color:#0FEA60;background-color:brown;
+	text-align: center;
+	margin: auto;
+    width: 55%;
+    border: 3px solid #666633;
+    padding: 10px;
+}
+
