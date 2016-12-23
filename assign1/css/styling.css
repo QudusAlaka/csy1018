@@ -39,7 +39,6 @@ body {
   cursor: default;
 }
  
-
   .nav li {
     width: 220px;
     border-bottom: none;
@@ -48,7 +47,7 @@ body {
     font-size: 1.4em;
   }
  
-  /* Option 1 - Display Inline */
+  /* This Makes The Navigationg Bar Display In A Line */
   .nav li {
     display: inline-block;
     margin-right: -4px;
@@ -116,15 +115,54 @@ p.p3 {
 
 
 
+* { 
+	margin: 0; 
+	padding: 0; 
+}
 
+.clear { 
+	clear: both; 
+}
 
+#cv { 
+	width: 800px; 
+	margin: 40px 
+	auto 60px; 
+}
 
-		* { margin: 0; padding: 0; }
-        .clear { clear: both; }
-        #cv { width: 800px; margin: 40px auto 60px; }
-        h2 { font-size: 20px; margin: 0 0 6px 0; position: relative; }
-        p { margin: 0 0 16px 0; }
-        ul { margin: 0 0 32px 17px; }
-        dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
-        dd { width: 600px; float: right; }
-        dd.clear { float: none; margin: 0; height: 15px; }
+h2 { 
+	font-size: 20px; 
+	margin: 0 0 6px 0; 
+	position: relative; 
+}
+
+p { 
+	margin: 0 0 16px 0; 
+}
+
+ul { 
+	margin: 0 0 32px 17px; 
+}
+
+dt { 
+	font-style: italic; 
+	font-weight: bold; 
+	font-size: 18px; 
+	text-align: right; 
+	padding: 0 26px 0 0; 
+	width: 150px; 
+	float: left; 
+	height: 100px; 
+	border-right: 1px solid #999;  
+}
+	
+dd { 
+	width: 600px; 
+	float: right; 
+}
+
+dd.clear { 
+	float: none; 
+	margin: 0; 
+	height: 15px; 
+}

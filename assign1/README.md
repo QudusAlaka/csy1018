@@ -30,3 +30,24 @@ the multi-line input text area for the short message box as the <texarea> tag ca
 unlimited number of characters. The only aspect of work that I personally think I never 
 implemented was the use of Google UI style guide as it wasn’t really straightforward to 
 understand & I had a basic knowledge of coding websites already 
+
+2.	Identify anyone with whom you have collaborated or discussed the assignment
+This assignment was an individual assignment so I didn’t really approach anyone for 
+assistant, the only assistant which I believe I had was by w3shools.com, I only used this
+when I was having issues with the image on the bio.html page. It showed me how to make the 
+picture float towards to right of the text, besides that the assignment was mainly my work.
+
+
+
+
+3.	How many hours was approximately spent on the assignment.
+I roughly spent 12 hours on this assignment the way I calculated this was by setting 
+myself milestone on how long roughly needs to be spent on each aspect of the work & when 
+it should be completed by, for example
+Planning – 2 hours 
+index. html – 2 hours
+bio.html – 2 ½ hours
+cv.html – 3 ½ hours
+contact.html – 1 hour
+I done this as I knew I had a deadline to meet & other assignments to fulfill so by me 
+giving each aspect a specified time I was able to distinguish which part would require more work.
